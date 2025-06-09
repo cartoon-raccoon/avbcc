@@ -1,4 +1,10 @@
-struct AstNode {
+#include <lexer/tokens.hpp>
+
+struct Statement {
+
+};
+
+struct Expression {
 
 };
 
